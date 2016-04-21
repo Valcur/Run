@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 7f7e2190376a64046ae6864a077e0366
+timeCreated: 1428241751
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: World01_0
+    21300002: World01_1
+    21300004: World01_2
+    21300006: World01_3
+    21300008: World01_4
+    21300010: World01_5
+    21300012: World01_6
+    21300014: World01_7
+    21300016: World01_8
+    21300018: World01_9
+    21300020: World01_10
+    21300022: World01_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 4
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: World01_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 739
+        width: 444
+        height: 228
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 567
+        width: 364
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_2
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 813
+        width: 508
+        height: 175
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_3
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 485
+        width: 450
+        height: 311
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_4
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 856
+        width: 265
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_5
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 496
+        width: 371
+        height: 224
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_6
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 892
+        width: 151
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_7
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 819
+        width: 182
+        height: 163
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_8
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 712
+        width: 473
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_9
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 549
+        width: 214
+        height: 133
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_10
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 508
+        width: 482
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World01_11
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 1922
+        height: 469
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
